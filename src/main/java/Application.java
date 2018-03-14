@@ -5,7 +5,7 @@ import com.pluralsight.service.CustomerService;
 import com.pluralsight.service.CustomerServiceImpl;
 
 /**
- * @author ptatla Pardeep
+ * @author ptatla
  *
  */
 public class Application {
